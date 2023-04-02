@@ -1,4 +1,6 @@
 const express = require("express");
+
+// using tesseract library for conversions
 const Tesseract = require("tesseract.js");
 
 const app = express();
